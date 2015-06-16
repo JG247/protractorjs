@@ -1,0 +1,33 @@
+{
+  "name": "protractorjs",
+  "version": "1.0.0",
+  "description": "Example of BDD testing in Angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JG247/protractorjs.git"
+  },
+  "author": "James Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JG247/protractorjs/issues"
+  },
+  "homepage": "https://github.com/JG247/protractorjs",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.11.0",
+    "jasmine": "^2.3.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.36",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "protractor": "^2.1.0",
+    "requirejs": "^2.1.18"
+  }
+}

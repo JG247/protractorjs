@@ -1,0 +1,21 @@
+{
+  "name": "protractorjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JG247/protractorjs",
+  "authors": [
+    "James <jgproducion1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.1",
+    "angularAMD": "~0.2.1",
+    "angular-route": "~1.4.1"
+  }
+}
